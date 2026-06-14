@@ -57,9 +57,9 @@ Role: Owner-representative / public contact for THRIC3MISTYPATH™
 
 Rights Notice
 
-© 2026 THRIC3MISTYPATHS. All rights reserved.
+© 2026 THRIC3MISTYPATH. All rights reserved.
 
-THRIC3MISTYPATHS™, SwordJourner™, Sojourner Tools™, and related project identifiers are used as source-identifying marks for the THRIC3MISTYPATHS / SwordJourner project.
+THRIC3MISTYPATH™, SwordJourner™, Sojourner Tools™, and related project identifiers are used as source-identifying marks for the THRIC3MISTYPATH / SwordJourner project.
 
 
 
